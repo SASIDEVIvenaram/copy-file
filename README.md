@@ -36,9 +36,11 @@ with open('sample.txt','r') as file1:
 ```
 
 ### OUTPUT:
-![](/file%20(1).png)
+![](progfile.png)
 
+![](file1.png)
 
-![](/outfile.png)
+![](file2.png)
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
