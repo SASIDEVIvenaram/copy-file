@@ -25,10 +25,9 @@ End the program.
 
 ## PROGRAM:
 ```
+#Program to copy the contents from one file to another file.
 #program developed by:SASIDEVI.V
 #registration number: 22008940
-```
-```
 with open('sample.txt','r') as file1:
     with open ('san1.txt','a') as file2:
         for line in file1:
